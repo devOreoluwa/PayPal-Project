@@ -81,8 +81,9 @@ h1{
 .container{
     display: flex;
 }
-
-
+/* .qr_code{
+    display: flex; */
+}
 .list {
     float: right;
 }
