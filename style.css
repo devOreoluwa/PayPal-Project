@@ -24,8 +24,80 @@ nav{
    
 }
 .nav-links ul li a{
-    color: blue;
+    color: rgb(3, 3, 38);
     text-decoration: none;
-    font-size: 13px;
+    font-size: 15px;
 }
-bu
+.logo{
+    height: 50px;
+    width: 150px;
+    margin-left: 100px;
+}
+button{
+    width: 75px;
+    height: 34px;
+    border-radius: 18px;
+    border: rgb(70, 70, 219) 1px solid;
+    margin: 10px;
+    padding: 5px;
+}
+.sign_up{
+    margin-right: 120px;
+    background-color: rgb(70, 70, 219);
+}
+.log_in{
+    background-color: white;
+}
+.login{
+    text-decoration: none;
+
+}
+.signup{
+    color: white;
+    text-decoration: none;
+}
+.hero_section{
+    padding: 5px 100px 0 100px;
+    height: fit-content;
+    width: 100%;
+    background-color: blue;
+}
+h1{
+    font-size: 90px;
+    color: white;
+     
+}
+.fst_hero{
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-right: 50px;
+}
+.qr_code ol li{
+    color: white;
+    line-height: 30px;
+    
+}
+.container{
+    display: flex;
+}
+
+
+.list {
+    float: right;
+}
+.learn{
+    text-decoration: none;
+    color: rgb(18, 156, 206);
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.hero{
+width: 400px;
+height: 450px;
+display: flex-end;
+margin-left: 50px;
+margin-top: 200px;
+margin-right: 250px;
+}
